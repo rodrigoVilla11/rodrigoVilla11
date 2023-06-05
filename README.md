@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Nicolas Villarrea</h1>
 <h3 align="center">Fullstack from Argentina.</h3>
 
+- 🔭 I’m currently working on [PROYECTO](LINK_PROYECTO)
+
+- 🌱 I’m currently learning **LEARNING**
+
+- 👨‍💻 All of my projects are available at [PORTFOLIO](PORTFOLIO)
+
+- 📫 How to reach me **villarrealrodrigo.n@gmail.com**
+
+- 📄 Know about my experiences [RESUME](RESUME)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rodrigonicolasvillarreal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodrigonicolasvillarreal/" height="30" width="40" /></a>
