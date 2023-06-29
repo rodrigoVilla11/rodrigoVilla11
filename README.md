@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Nicolas Villarreal</h1>
 <h3 align="center">Fullstack from Argentina.</h3>
 
-- 🔭 I’m currently working on [PROYECTO](LINK_PROYECTO)
+- 🔭 I’m currently working on a [GYM APP]([LINK_PROYECTO](https://github.com/rodrigoVilla11/gymApp))
 
 - 🌱 I’m currently learning **LEARNING**
 
