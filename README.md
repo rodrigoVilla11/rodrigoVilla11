@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Nicolas Villarreal</h1>
 <h3 align="center">Fullstack from Argentina.</h3>
 
-- 🔭 I’m currently working on a [GYM APP](https://github.com/rodrigoVilla11/gymApp))
+- 🔭 I’m currently working on a [GYM APP](https://github.com/rodrigoVilla11/gymApp)
 
-- 🌱 I’m currently learning **LEARNING**
+- 🌱 I’m currently learning NEXT.JS, DOCKER and PYTHON
 
 - 👨‍💻 All of my projects are available at [PORTFOLIO](PORTFOLIO)
 
