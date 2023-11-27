@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning NEXT.JS, DOCKER and PYTHON
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO](PORTFOLIO)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://portfolio-full-stack-rodrigo-villarreals-projects.vercel.app/)
 
 - 📫 How to reach me **villarrealrodrigo.n@gmail.com**
 
