@@ -1,75 +1,46 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Nicolás Villarreal</h1>
-<h3 align="center">Full Stack Developer | Next.js · NestJS · MongoDB · SaaS & Business Systems</h3>
+# Hi there, I'm [Tu Nombre] 👋
 
-<p align="center">
-Building scalable business-oriented platforms, ERP systems, SaaS products and financial dashboards.
-</p>
+**Senior Full-Stack Engineer | Systems Builder | SaaS Founder**
 
----
+I engineer resilient, offline-first B2B platforms and high-complexity financial systems. I focus on translating intricate business operations—like sequential payment allocations, offline POS synchronization, and multi-tenant architectures—into scalable, highly maintainable code. 
 
-### 👨‍💻 About Me
-
-- 🚀 Full Stack Developer specialized in **Next.js, NestJS and MongoDB**
-- 🏗️ Focused on **scalable architecture and real business logic**
-- 💳 Experience building **payment engines, ERP systems and SaaS platforms**
-- 🌎 Based in Argentina – Open to remote opportunities
-- 📫 Contact: **villarrealrodrigo.n@gmail.com**
+Currently based in Argentina 🇦🇷 and planning my relocation to Spain 🇪🇸. Open to connecting with tech leads, CTOs, and engineering teams solving deep operational bottlenecks.
 
 ---
 
-### 🌐 Portfolio & Resume
+### 🚀 What I Build & Do
 
-- 💼 Portfolio: [View Projects](https://rodrigovillarreal.vercel.app/)
-- 📄 Resume: [View Resume]([#](https://drive.google.com/file/d/1U5MUtPlaI7XEb8YSsqk9HVAFyKVq9HUc/view?usp=sharing)) 
-
----
-
-### 🤝 Connect with me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/rodrigonicolasvillarreal/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</p>
+* 🏢 **Enterprise SaaS Architecture:** Designing multi-tenant B2B platforms with strict data isolation and RBAC.
+* ⚡ **Offline-First Systems:** Building resilient interfaces using IndexedDB for zero operational downtime during network failures.
+* 💳 **Complex Financial Logic:** Architecting payment allocation engines, check interest amortization, and automated billing cycles.
+* 🛠️ **Product Ownership:** As the founder of a live B2B SaaS ([Gourmetify](https://www.gourmetify.pro)), I treat code as a tool to drive revenue and solve real-world problems.
 
 ---
 
-### 🛠️ Tech Stack
+### 💻 Core Tech Stack
 
-#### Frontend
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-</p>
+**Ecosystem & Frameworks** ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-#### Backend
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-</p>
-
-#### DevOps & Tools
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-</p>
+**Databases & Architecture** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### 📈 What I Build
+### 📈 Featured Work
 
-- 🧩 B2B ERP systems  
-- 💳 Advanced payment modules with financial logic  
-- 🏢 Multi-tenant SaaS platforms  
-- 📊 Business dashboards with real metrics  
-- 🔌 API integrations & automation systems  
+* 🍽️ **[Gourmetify](https://www.gourmetify.pro):** Founder & Lead Engineer of a B2B SaaS Point of Sale (POS) and management platform for the gastronomy sector. Built with an offline-first architecture (Next.js 16, PostgreSQL).
+* ⚙️ **DMA (Enterprise B2B Platform):** Architected an end-to-end wholesale distribution system featuring a complex custom financial payment engine for sequential document settlement and check interest amortization (Next.js 15, NestJS, MongoDB).
 
 ---
 
-⭐ Always building. Always improving.
+### 📫 Let's Connect
+
+* **LinkedIn:** [Tu URL de LinkedIn]
+* **Email:** [Tu Email de Contacto]
+* **Portfolio / SaaS:** [https://www.gourmetify.pro](https://www.gourmetify.pro)
