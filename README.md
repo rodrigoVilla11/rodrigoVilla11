@@ -41,6 +41,6 @@ Currently based in Argentina 🇦🇷 and planning my relocation to Spain 🇪�
 
 ### 📫 Let's Connect
 
-* **LinkedIn:** [Tu URL de LinkedIn]
-* **Email:** [Tu Email de Contacto]
-* **Portfolio / SaaS:** [https://www.gourmetify.pro](https://www.gourmetify.pro)
+* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/rodrigonicolasvillarreal/)
+* **Email:** villarrealrodrigo.n@gmail.com
+* **Portfolio / SaaS:** [Portfolio]([https://www.gourmetify.pro](https://rodrigovillarreal.vercel.app/) / [https://www.gourmetify.pro](https://www.gourmetify.pro)
