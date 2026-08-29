@@ -1,46 +1,48 @@
-# Hi there, I'm RODRIGO NICOLÁS VILLARREAL 👋
-
-**Senior Full-Stack Engineer | Systems Builder | SaaS Founder**
-
-I engineer resilient, offline-first B2B platforms and high-complexity financial systems. I focus on translating intricate business operations—like sequential payment allocations, offline POS synchronization, and multi-tenant architectures—into scalable, highly maintainable code. 
-
-Currently based in Argentina 🇦🇷 and planning my relocation to Spain 🇪🇸. Open to connecting with tech leads, CTOs, and engineering teams solving deep operational bottlenecks.
-
+# Rodrigo Nicolás Villarreal
+ 
+**Full-Stack Engineer · Founder @ Gourmetify**
+ 
+I build B2B platforms that run real businesses: offline-first point-of-sale, multi-tenant SaaS, and the messy financial logic underneath — payment allocation engines, invoice settlement, automated billing. My systems process live transactions for restaurants and wholesale distributors every day.
+ 
+Based in **Valencia, Spain** 🇪🇸 · Open to remote roles across Europe.
+ 
 ---
-
-### 🚀 What I Build & Do
-
-* 🏢 **Enterprise SaaS Architecture:** Designing multi-tenant B2B platforms with strict data isolation and RBAC.
-* ⚡ **Offline-First Systems:** Building resilient interfaces using IndexedDB for zero operational downtime during network failures.
-* 💳 **Complex Financial Logic:** Architecting payment allocation engines, check interest amortization, and automated billing cycles.
-* 🛠️ **Product Ownership:** As the founder of a live B2B SaaS ([Gourmetify](https://www.gourmetify.pro)), I treat code as a tool to drive revenue and solve real-world problems.
-
+ 
+### What I work on
+ 
+- **Multi-tenant SaaS architecture** — strict data isolation, RBAC, and tenant provisioning at the infrastructure level.
+- **Offline-first systems** — IndexedDB-backed interfaces so a restaurant keeps selling when the network drops.
+- **Financial logic** — sequential document settlement, check interest amortization, and electronic invoicing (AFIP/ARCA) with advisory locks and idempotent retries.
+- **Messaging infrastructure** — WhatsApp Cloud API as a Tech Provider, with Embedded Signup, BullMQ workers and Redis pub/sub for real-time delivery.
 ---
-
-### 💻 Core Tech Stack
-
-**Ecosystem & Frameworks** ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Databases & Architecture** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
+ 
+### Stack
+ 
+**Core** TypeScript · Next.js · NestJS · React · Node.js
+ 
+**Data** PostgreSQL · Prisma · MongoDB · Redis
+ 
+**Infra** Docker · BullMQ · Cloudflare R2 · VPS deployment (Easypanel)
+ 
 ---
-
-### 📈 Featured Work
-
-* 🍽️ **[Gourmetify](https://www.gourmetify.pro):** Founder & Lead Engineer of a B2B SaaS Point of Sale (POS) and management platform for the gastronomy sector. Built with an offline-first architecture (Next.js 16, PostgreSQL).
-* ⚙️ **DMA (Enterprise B2B Platform):** Architected an end-to-end wholesale distribution system featuring a complex custom financial payment engine for sequential document settlement and check interest amortization (Next.js 15, NestJS, MongoDB).
-
+ 
+### Featured work
+ 
+**[Gourmetify](https://www.gourmetify.pro)** — B2B SaaS POS and management platform for hospitality. Founder and lead engineer. Multi-tenant, offline-first, live in production with paying venues. Handles orders, inventory, electronic invoicing and WhatsApp integration end to end.
+ 
+**[Nova Sushi](https://nova-sushi.com/)** — Restaurant group I own and operate. Its own WhatsApp inbox platform (NestJS, BullMQ, Redis, Next.js) handles customer conversations at volume, migrated from unofficial libraries to Meta's official Cloud API.
+ 
+**[DMA](https://disdma.com.ar/)** — Wholesale distribution platform. Designed the financial payment engine: sequential invoice allocation, financing cost calculation, and check amortization (Next.js, NestJS, MongoDB).
+ 
 ---
-
-### 📫 Let's Connect
-
-* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/rodrigonicolasvillarreal/)
-* **Email:** villarrealrodrigo.n@gmail.com
-* **Portfolio / SaaS:** [Portfolio](https://rodrigovillarreal.vercel.app/) / [https://www.gourmetify.pro](https://www.gourmetify.pro)
+ 
+### Currently
+ 
+Building a hub-and-spoke MCP assistant that unifies my business and personal systems behind a single voice interface. Studying Computer Engineering at UNED.
+ 
+---
+ 
+### Contact
+ 
+[LinkedIn](https://www.linkedin.com/in/rodrigonicolasvillarreal/) · [Portfolio](http://villarrealrodrigo.com/) · villarrealrodrigo.n@gmail.com
+ 
