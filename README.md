@@ -1,48 +1,21 @@
-# Rodrigo Nicolás Villarreal
+# Hi, I'm Rodrigo 👋
  
-**Full-Stack Engineer · Founder @ Gourmetify**
+Full-Stack Developer based in **Valencia, Spain**. I build B2B SaaS platforms in TypeScript that handle real money and real operations, from database design to production.
  
-I build B2B platforms that run real businesses: offline-first point-of-sale, multi-tenant SaaS, and the messy financial logic underneath — payment allocation engines, invoice settlement, automated billing. My systems process live transactions for restaurants and wholesale distributors every day.
+### What I've built
  
-Based in **Valencia, Spain** 🇪🇸 · Open to remote roles across Europe.
- 
----
- 
-### What I work on
- 
-- **Multi-tenant SaaS architecture** — strict data isolation, RBAC, and tenant provisioning at the infrastructure level.
-- **Offline-first systems** — IndexedDB-backed interfaces so a restaurant keeps selling when the network drops.
-- **Financial logic** — sequential document settlement, check interest amortization, and electronic invoicing (AFIP/ARCA) with advisory locks and idempotent retries.
-- **Messaging infrastructure** — WhatsApp Cloud API as a Tech Provider, with Embedded Signup, BullMQ workers and Redis pub/sub for real-time delivery.
----
+- **[Gourmetify](https://www.gourmetify.pro)** — Multi-tenant POS & management SaaS for restaurants, live in 5 venues. Offline-first with IndexedDB and background sync, Stripe + MercadoPago subscriptions, and electronic invoicing with Argentina's tax authority (AFIP/ARCA).
+- **Payment allocation engine** — For a wholesale distribution platform serving 520+ clients per distributor: sequential document settlement, check interest amortization and refinancing plans. *(Next.js, NestJS, MongoDB)*
+- **WhatsApp inbox** — Custom inbox on the Meta Cloud API for a 3-location restaurant group, with BullMQ + Redis queues for async webhook processing and Cloudflare R2 for media. *(NestJS, Next.js, Prisma, PostgreSQL)*
+> Most of this code is private (client and production work). The pinned repos below show how I approach architecture and testing.
  
 ### Stack
  
-**Core** TypeScript · Next.js · NestJS · React · Node.js
+`TypeScript` `React` `Next.js` `NestJS` `Node.js` `PostgreSQL` `MongoDB` `Redis` `BullMQ` `Prisma` `Docker` `Nginx`
  
-**Data** PostgreSQL · Prisma · MongoDB · Redis
+### Get in touch
  
-**Infra** Docker · BullMQ · Cloudflare R2 · VPS deployment (Easypanel)
+Open to Full-Stack / Product Engineer roles, remote or on-site in Valencia.
  
----
- 
-### Featured work
- 
-**[Gourmetify](https://www.gourmetify.pro)** — B2B SaaS POS and management platform for hospitality. Founder and lead engineer. Multi-tenant, offline-first, live in production with paying venues. Handles orders, inventory, electronic invoicing and WhatsApp integration end to end.
- 
-**[Nova Sushi](https://nova-sushi.com/)** — Restaurant group I own and operate. Its own WhatsApp inbox platform (NestJS, BullMQ, Redis, Next.js) handles customer conversations at volume, migrated from unofficial libraries to Meta's official Cloud API.
- 
-**[DMA](https://disdma.com.ar/)** — Wholesale distribution platform. Designed the financial payment engine: sequential invoice allocation, financing cost calculation, and check amortization (Next.js, NestJS, MongoDB).
- 
----
- 
-### Currently
- 
-Building a hub-and-spoke MCP assistant that unifies my business and personal systems behind a single voice interface. Studying Computer Engineering at UNED.
- 
----
- 
-### Contact
- 
-[LinkedIn](https://www.linkedin.com/in/rodrigonicolasvillarreal/) · [Portfolio](http://villarrealrodrigo.com/) · villarrealrodrigo.n@gmail.com
+[LinkedIn](https://www.linkedin.com/in/rodrigonicolasvillarreal) · [Portfolio](https://villarrealrodrigo.com) · villarrealrodrigo.n@gmail.com
  
